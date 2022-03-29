@@ -9,8 +9,6 @@ TDD 흐름
 
 <img src="/img/1.png" width="1000px;">
 
-위와 같은  TDD 사이클을 Red-Green-Refactor 로 부르기도 한다.
-
-여기서 Red 는 실패하는 테스트를 의미한다.
-
-그린은 성공하는 테스트를 의미한다.
+위와 같은  TDD 사이클을 Red-Green-Refactor 로 부르기도 한다.</br>
+여기서 Red 는 실패하는 테스트를 의미한다.</br>
+그린은 성공하는 테스트를 의미한다.</br>
